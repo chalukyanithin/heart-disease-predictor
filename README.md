@@ -20,7 +20,6 @@ The system uses a trained Machine Learning model built on the **Kaggle Heart Dis
 ## 🚀 Live Features
 
 * ✅ AI-based heart disease prediction
-* 📁 CSV upload for bulk testing
 * 🧍 Manual patient data entry
 * 📊 Risk percentage estimation
 * 🌙 Modern dark UI
@@ -33,12 +32,6 @@ The system uses a trained Machine Learning model built on the **Kaggle Heart Dis
 ### 🔹 Home Screen
 
 ![Home](Screenshot%20%28226%29.png)
-
----
-
-### 🔹 CSV Upload Mode
-
-![CSV](Screenshot%20%28227%29.png)
 
 ---
 
