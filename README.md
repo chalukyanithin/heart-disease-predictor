@@ -37,7 +37,7 @@ The system uses a trained Machine Learning model built on the **Kaggle Heart Dis
 
 ### 🔹 Prediction Result
 
-![Result](Screenshot%20%28228%29.png)
+![Result](Screenshot%20%28227%29.png)
 
 ---
 
